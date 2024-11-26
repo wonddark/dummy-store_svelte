@@ -6,7 +6,7 @@
 
 <svelte:head>
 	<title>GoodValue</title>
-	<meta name="description" content="GoodValue online store" />
+	<meta name="description" content="Project built with SvelteKit + Vite + Typescript + TailwindCSS" />
 </svelte:head>
 
 <div>

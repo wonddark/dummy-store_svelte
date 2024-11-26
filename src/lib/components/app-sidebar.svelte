@@ -136,7 +136,7 @@
 	import SearchForm from "$lib/components/search-form.svelte";
 	import * as Collapsible from "$lib/components/ui/collapsible/index.js";
 	import * as Sidebar from "$lib/components/ui/sidebar/index.js";
-	import GalleryVerticalEnd from "lucide-svelte/icons/shopping-basket";
+	import BadgeDollarSign from "lucide-svelte/icons/badge-dollar-sign";
 	import Minus from "lucide-svelte/icons/minus";
 	import Plus from "lucide-svelte/icons/plus";
 	import type { ComponentProps } from "svelte";
@@ -154,11 +154,11 @@
 							<div
 								class="bg-sidebar-primary text-sidebar-primary-foreground flex aspect-square size-8 items-center justify-center rounded-lg"
 							>
-								<GalleryVerticalEnd class="size-4" />
+								<BadgeDollarSign class="size-4" />
 							</div>
 							<div class="flex flex-col gap-0.5 leading-none">
 								<span class="font-semibold">GoodValue</span>
-								<span class="">Online Store</span>
+								<span class="">Everyday discounts for all articles</span>
 							</div>
 						</a>
 					{/snippet}
