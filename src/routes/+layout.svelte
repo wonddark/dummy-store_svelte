@@ -9,6 +9,4 @@
 	<meta name="description" content="Project built with SvelteKit + Vite + Typescript + TailwindCSS" />
 </svelte:head>
 
-<div>
-	{@render children()}
-</div>
+{@render children()}
