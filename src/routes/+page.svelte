@@ -13,7 +13,7 @@
 	<nav>
 		<ul class="flex gap-2 items-center">
 			<li>
-				<a href="/products" class="px-2.5 py-1 border border-orange-50 rounded-md hover:bg-orange-50 transition-colors duration-300 ease-in-out">Products</a>
+				<a href="/products" class="px-2.5 py-1 border border-orange-50 rounded-md hover:bg-orange-50 transition-colors duration-300 ease-in-out">Discover</a>
 			</li>
 			<li>
 				<a href="/categories" class="px-2.5 py-1 border border-orange-50 rounded-md hover:bg-orange-50 transition-colors duration-300 ease-in-out">Categories</a>
