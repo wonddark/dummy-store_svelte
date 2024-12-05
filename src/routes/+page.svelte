@@ -42,7 +42,7 @@
 							<strong
 								class="text-xl">${(deal.price - deal.price * deal.discountPercentage / 100).toLocaleString(undefined, { maximumFractionDigits: 2 })}</strong>
 							<span class="text-gray-400">Save ${(deal.price * deal.discountPercentage / 100).toLocaleString(undefined, { maximumFractionDigits: 2, minimumFractionDigits:2 })}</span>
-							<spa>{deal.stock} in stock</spa>
+							<span>{deal.stock} in stock</span>
 						</div>
 					</CardContent>
 				</Card>
